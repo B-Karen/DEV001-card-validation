@@ -1,0 +1,40 @@
+ body {
+ 	background-image: url(images/popcorn.jpg);
+ 	box-sizing: border-box;
+ 	background-size: cover;
+ 	outline: none;
+ }
+
+ button {
+	background-color: rgb(12, 93, 163);
+	border-radius: 5px;
+	outline: none;
+	margin-bottom: 2px;
+}
+ .container {
+ 	display: flex;
+	justify-content: center;
+	justify-items: center;
+	border: solid 2px black 
+ }
+
+ .input-box {
+ 	font-family: 'Helvetica';
+ 	margin: 0;
+ }
+
+
+
+
+ /* p {
+color: rgb(16, 18, 20);
+font-size: 20px;
+text-align: start;
+
+
+
+
+
+
+
+ 
